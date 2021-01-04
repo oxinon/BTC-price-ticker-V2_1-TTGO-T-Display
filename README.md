@@ -1,19 +1,15 @@
 # BTC-price-ticker-V2_1-TTGO-T-Display
 <br>
-Simple Bitcoin price ticker by using TTGO T-Display ESP32 and 1.14 Inch Display with CoinMarketcap API for Arduino IDE
+Simple Bitcoin price ticker by using TTGO T-Display ESP32 and 1.14 Inch Display with CoinMarketcap API
 
 <br>
-<p><img src="https://github.com/oxinon/TTGO-T-Display-Name-Badge/blob/master/pictures/NameBadge.png" alt="Cover" width="600"></p>
+<p><img src="https://github.com/oxinon/BTC-price-ticker-V2_1-TTGO-T-Display/blob/main/pictures/BTC-Ticker-green50.png" alt="Cover" width="600"></p>
 
 <b>Update with new Coinmarketcap2 API key</b>
 <br>
 <b>Important: update the to new libraries Coinmarketcap2 and ArduinoJSON 6.x</b>
 <br>
 
-<br>
-
-<br>
-<br>
 
 * * *
 
