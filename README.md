@@ -4,6 +4,7 @@ Simple Bitcoin price ticker by using TTGO T-Display ESP32 and 1.14 Inch Display 
 
 <br>
 <p><img src="https://github.com/oxinon/BTC-price-ticker-V2_1-TTGO-T-Display/blob/main/pictures/BTC-Ticker-green50.png" alt="Cover" width="600"></p>
+<p><img src="https://github.com/oxinon/BTC-price-ticker-V2_1-TTGO-T-Display/blob/main/pictures/BTC-Ticker-boot50.png" alt="Cover" width="600"></p>
 
 <b>Update with new Coinmarketcap2 API key</b>
 <br>
