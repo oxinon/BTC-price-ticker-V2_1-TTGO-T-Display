@@ -47,4 +47,8 @@ The instruction for the "TFT_eSPI" and TTGO-T-Display can be found here https://
 If you are have problem with the "wifi.h" delete the arduino/libraries/wiFi directory, you can use the esp32 WiFi.h
 <br>
 <br>
-<a name="case"></a><h2>Case information</h2>
+<a name="case"></a><h2>Case and parts information</h2>
+You find two files in case directory, .dxf and .stp With the files you can cut stainless steel sheet. I use a laser cuter for this.
+<p><img src="https://github.com/oxinon/TTGO-T-Display-Name-Badge/blob/master/case/case.png" alt="Cover" width="600"></p>
+<br>
+<p><img src="https://github.com/oxinon/TTGO-T-Display-Name-Badge/blob/master/pictures/TTGO-T-Display_Build.jpg" alt="Cover" width="600"></p>
