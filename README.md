@@ -42,6 +42,14 @@ The new api requires a developer key, so you must apply for a key to use https:/
 + [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) 
 + [CoinMarketCapApi.h](https://github.com/lewisxhe/CoinMarketCapApi2) Version 2
 + [ArduinoJSON](https://github.com/bblanchon/ArduinoJson) version 6.x is testet 
+
+<br>
+
+Important: Please chose the ESP32 Board libraris the version 1.0.4, version 1.0.5 will not work for now!
+
+<p><img src="https://github.com/oxinon/IOTA-price-ticker-V2-TTGO-T-Display/blob/master/picture/ESP32lib.png" alt="Cover" width="600"></p>
+
+<br>
    
 The instruction for the "TFT_eSPI" and TTGO-T-Display can be found here https://github.com/Xinyuan-LilyGO/TTGO-T-Display<br>
 If you are have problem with the "wifi.h" delete the arduino/libraries/wiFi directory, you can use the esp32 WiFi.h
